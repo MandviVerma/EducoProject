@@ -1,0 +1,2 @@
+rootProject.name='EDUCO'
+include ':app'
